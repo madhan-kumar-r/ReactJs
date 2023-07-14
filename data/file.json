@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "Avengers",
+      "director": "Joss Whedon",
+      "genre": "Action",
+      "body": "Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name.",
+      "id": 2
+    },
+    {
+      "title": "Black Panther",
+      "director": "Ryan Coogler",
+      "body": "Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 18th film in the Marvel Cinematic Universe (MCU)..",
+      "genre": "Action",
+      "id": 3
+    },
+    {
+      "title": "Captain America",
+      "director": "Joe Johnston ",
+      "genre": "Action",
+      "body": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.",
+      "id": 4
+    },
+    {
+      "title": "Spider Man",
+      "director": "Sam Raimi",
+      "body": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "genre": "Action",
+      "id": 5
+    },
+    {
+      "title": "Hulk",
+      "director": "Ang Lee",
+      "genre": "Action",
+      "body": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+      "id": 6
+    }
+  ]
+}
